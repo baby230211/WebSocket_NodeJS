@@ -19,6 +19,6 @@
 
 > WebSocket 可以在較低的開銷之下啟用全雙工 ( full-duplex ) 通訊 ( 伺服器與用戶端可以同時與彼此通訊 )。此外，他們是在 80 或 443 連接阜上運行的，所以可以良好的搭配有可能阻擋其他連接阜的防火牆。
 
-> 
+> ![image](https://github.com/baby230211/WebSocket_NodeJS/blob/main/image.png)
 
 
